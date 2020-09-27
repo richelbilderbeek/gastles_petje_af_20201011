@@ -12,7 +12,7 @@ Dag voor 'Petje Af', met praatje over wetenschap, lunch en programmeren.
 
 Tijd |Activiteit
 -----|---------------------------------
-11:15|inloop
+11:15|inloop                        
 11:30|start gastles 'Wat is wetenschap'
 12:15|pauze (kids naar buiten)
 12:30|lunch
@@ -21,28 +21,34 @@ Tijd |Activiteit
 14:15|verder programmeren
 15:00|einde
 
+ * Gastles en activiteit is in de kantine
+ * Lunch is [ergens](https://github.com/richelbilderbeek/gastles_petje_af_20201011/issues/1)
+
 ## Draaiboek
 
 Deze is inclusief activiteiten van vrijwilligers
 
-Tijd |Activiteit                        |Wie
+Tijd |Activiteit                        |Wie                    
 -----|----------------------------------|-----------------------
 10:00|opbouw (zie checklist opbouw)     |Richel en vrijwilligers
 11:00|deadline: alles staat klaar       |-
-11:00|gastheer voor vroege inlopers     |Richel en vrijwilligers
+.    |gastheer voor vroege inlopers     |Richel en vrijwilligers
 11:15|gastheer voor inloop              |Richel en vrijwilligers
 11:30|start gastles 'Wat is wetenschap' |Richel
 12:15|Pleindienst pauze                 |Richel
 12:30|lunch bemensen                    |?Anna
-12:30|klaarzetten laptops               |Richel
+.    |klaarzetten laptops               |Richel
 13:15|start programmeren                |Richel
+.    |assisteren programmeren           |Vrijwilligers
 14:00|Pleindienst pauze                 |Richel
 14:15|verder programmeren               |Richel
+.    |verder assisteren                 |Vrijwilligers
 15:00|einde                             |-
 
 ## Checklist opbouw
 
- * [ ] 9 tafels (1 van boven)
+ * [ ] beamer + beamerscherm + laptop
+ * [ ] 10 tafels (2 uitklaptafels) (9 tafels voor deelnemers, 1 voor beamer)
  * [ ] 2 stoelen per tafel
  * [ ] 2 laptops per tafel
  * [ ] 2x 'Processing boekje 1' per tafel
