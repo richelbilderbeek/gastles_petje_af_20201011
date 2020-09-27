@@ -2,10 +2,11 @@
 
 Dag voor 'Petje Af', met praatje over wetenschap, lunch en programmeren.
 
-> Het betreft een programma van ongeveer 11.15 - 15.00 (gastles, lunch, programmeren).
-> Het zal gaan om 18 kinderen (van 9 t/m 11 jaar) en 3 begeleiding.
-
+ * Datum: Zondag 11 oktober 2020
  * Locatie: DJO Groningen, Dirk Huizingastraat 13, 9713 GL Groningen
+ * Leegtijd deelnemers: 9 t/m 11 jaar
+ * Aantal deelnemers: max 18
+ * Aantal volwassen begeleiders: 3
 
 ## Tijdsschema
 
