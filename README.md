@@ -13,16 +13,17 @@ Dag voor 'Petje Af', met praatje over wetenschap, lunch en programmeren.
 Tijd |Activiteit
 -----|---------------------------------
 11:15|inloop                        
-11:30|start gastles 'Wat is wetenschap' (in kantine)
-12:15|pauze (buiten)
-12:30|lunch (op afdeling Papier & Textiel)
-13:15|start programmeren (in kantine)
-14:00|pauze (buiten)
-14:15|verder programmeren (in kantine)
+11:30|start gastles 'Wat is wetenschap'
+12:15|pauze
+12:30|lunch 
+13:15|start programmeren
+14:00|pauze
+14:15|verder programmeren
 15:00|einde
 
  * Gastles en activiteit is in de kantine
- * Lunch is [ergens](https://github.com/richelbilderbeek/gastles_petje_af_20201011/issues/1)
+ * Lunch is op afdeling Papier & Textiel
+ * Pauzes zijn buiten
 
 ## Draaiboek
 
