@@ -3,7 +3,7 @@
 Dag voor 'Petje Af', met praatje over wetenschap, lunch en programmeren.
 
  * Datum: Zondag 11 oktober 2020
- * Locatie: DJO Groningen, Dirk Huizingastraat 13, 9713 GL Groningen
+ * Locatie: online
  * Leegtijd deelnemers: 9 t/m 11 jaar
  * Aantal deelnemers: max 18
  * Aantal volwassen begeleiders: 3
@@ -13,7 +13,7 @@ Dag voor 'Petje Af', met praatje over wetenschap, lunch en programmeren.
 Tijd |Activiteit
 -----|---------------------------------
 11:15|inloop                        
-11:30|start gastles 'Wat is wetenschap' op https://meet.google.com/sgz-rd??-???
+11:30|start online gastles 'Wat is wetenschap' op https://meet.google.com/sgz-rd??-???
 12:15|einde
 
  * Gastles is online, URL is https://meet.google.com/???-??ki-wtc
