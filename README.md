@@ -12,7 +12,6 @@ Dag voor 'Petje Af', met praatje over wetenschap, lunch en programmeren.
 
 Tijd |Activiteit
 -----|---------------------------------
-11:15|inloop                        
 11:30|start online gastles 'Wat is wetenschap' op https://meet.google.com/sgz-rd??-???
 12:15|einde
 
@@ -24,8 +23,7 @@ Deze is inclusief activiteiten van vrijwilligers
 
 Tijd |Activiteit                        |Wie                    
 -----|----------------------------------|-----------------------
-11:15|testen techniek                   |Richel en Petje Af
-11:30|start gastles 'Wat is wetenschap' |Richel
+10:30|testen techniek                   |Richel en Koesma en Sanne
+11:30|start gastles 'Wat is wetenschap?'|Richel
 15:00|einde                             |-
-
 
