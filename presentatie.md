@@ -1,32 +1,28 @@
-% Habits
-% John Doe
-% March 22, 2005
+% Wat is wetenschap?
+% Richèl Bilderbeek
+% 11 Oktober 2020
 
-# In the morning
 
-## Getting up
+## Wat is wetenschap?
 
-- Turn off alarm
-- Get out of bed
+?
 
-## Breakfast
+## Wat is wetenschap?
 
-- Eat eggs
-- Drink coffee
+Wetenschap is zowel de systematisch verkregen, 
+geordende en verifieerbare menselijke kennis, 
+het daarmee verbonden proces van kennisverwerving 
+als de gemeenschap waarin deze kennis wordt vergaard.
 
-# In the evening
+Deze gemeenschap heeft haar eigen wetenschappelijke methodes 
+en conventies om tot hypotheses, wetmatigheden, theorieën en systemen te komen. 
 
-## Dinner
+## Einde
 
-- Eat spaghetti
-- Drink wine
+![CC-BY-NC-SA.png](CC-BY-NC-SA.png)
 
-------------------
+[https://github.com/](https://github.com/richelbilderbeek/gastles_petje_af_20201011)
+[richelbilderbeek/](https://github.com/richelbilderbeek/gastles_petje_af_20201011)
+[gastles_petje_af_20201011](https://github.com/richelbilderbeek/gastles_petje_af_20201011)
 
-![picture of spaghetti](images/spaghetti.jpg)
-
-## Going to sleep
-
-- Get in bed
-- Count sheep
 

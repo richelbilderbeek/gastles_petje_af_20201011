@@ -1,11 +1,22 @@
 #!/bin/bash
 
-cp presentatie.md presentatie.txt
+unoconv -f pdf presentatie.odp
+
+
+
+
+# FAILS
+# pandoc presentatie.odp -o presentatie.pdf
+
+
+
+## Use text-only, abandoned
+# cp presentatie.md presentatie.txt
 
 # From https://pandoc.org/MANUAL.html#producing-slide-shows-with-pandoc
-pandoc -t dzslides -s presentatie.txt -o presentatie.html
+# pandoc -t dzslides -s presentatie.txt -o presentatie.html
 
-rm presentatie.txt
+# rm presentatie.txt
 
 # UNTESTED
 

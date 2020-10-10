@@ -1,3 +1,6 @@
+install:
+  - sudo apt install unoconv
+
 script:
   - ./maak_presentatie.sh
 
