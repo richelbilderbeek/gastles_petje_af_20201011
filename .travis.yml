@@ -1,5 +1,6 @@
 install:
-  - sudo apt install unoconv
+  - echo "Niks:
+  # - sudo apt install unoconv
 
 script:
   - ./maak_presentatie.sh
