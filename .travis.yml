@@ -1,5 +1,5 @@
 install:
-  - echo "Niks:
+  - echo "Niks"
   # - sudo apt install unoconv
 
 script:
