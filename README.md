@@ -25,5 +25,5 @@ Tijd |Activiteit                        |Wie
 -----|----------------------------------|-----------------------
 10:30|testen techniek                   |Richel en Koesma en Sanne
 11:30|start gastles 'Wat is wetenschap?'|Richel
-15:00|einde                             |-
+12:15|einde                             |-
 
